@@ -1,6 +1,7 @@
 # GateWay.IO — Automated RFID Toll Gate System 🛣️🤖
 
 An intelligent, state-driven automated toll booth prototype built using the Arduino ecosystem. This project integrates RFID vehicle identification, a dual-IR sensor array for dynamic physical entry/exit handling, a 16x2 I2C LCD human-machine interface, and a MAX7219 LED Dot Matrix display for real-time traffic signaling.
+![System Setup Architecture](GatewayF.png)
 
 ---
 
@@ -82,4 +83,8 @@ Ensure the following libraries are installed in your Arduino IDE:
 1. Clone this repository to your local directory:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/GateWay.IO.git](https://github.com/YOUR_USERNAME/GateWay.IO.git)
-   
+### Images 
+![System Setup Architecture](GatewayR.png)
+
+### Block Diagram 
+![System Setup Architecture](blockdiagram.png)
